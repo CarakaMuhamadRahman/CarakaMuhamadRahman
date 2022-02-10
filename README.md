@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Perkenalkan Nama Saya **Caraka Muhamad Rahman**.
+
+Saya Seorang Mahasiswa aktif jurusan **Teknik Informatika** di salah satu perguruan tinggi swasta di kota Bandung.
+Saya sangat mencintai dunia **Software Engineering** karena saya ingin, produk berupa Aplikasi yang saya bangun dapat membantu masyarakat untuk menjalani
+kehidupan sehari - hari.
+
+Dan sekarang, saya pun menjadi bagian dari **Bangkit Academy 2022 by Google, GoTo, Traveloka pada learning path Cloud Computing**.
+
+Jika kalian semua tertarik untuk berkenalan atau membuat project bersama, kalian bisa click akun [LinkedIn](https://www.linkedin.com/in/caraka-muhamad-rahman-0504741b9/) ini.  
 <!--
 **CarakaMuhamadRahman/CarakaMuhamadRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
