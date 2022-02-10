@@ -12,7 +12,7 @@ Jika kalian semua tertarik untuk berkenalan atau membuat project bersama, kalian
 
 <p align="left">
 <a href="https://github.com/CarakaMuhamadRahman">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?          username=CarakaMuhamadRahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarakaMuhamadRahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarakaMuhamadRahman&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
