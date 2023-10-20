@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-Perkenalkan Nama Saya **Caraka Muhamad Rahman**.
+Let me introduce Myself, my name is <strong>Caraka Muhamad Rahman</strong>.
 
-Saya Seorang Mahasiswa aktif jurusan **Teknik Informatika** di salah satu perguruan tinggi swasta di kota Bandung.
-Saya sangat mencintai dunia **Software Engineering** karena saya ingin, produk berupa Aplikasi yang saya bangun dapat membantu masyarakat untuk menjalani
-kehidupan sehari - hari.
+I'm a Bachelor of Computer Science, graduate at the Universitas Komputer Indonesia.
+I'm a Data Enthusiast especially **Data Science**, which is what made me do research in the field of **Artificial Intelligence** to detect sarcasm in public comments towards politicians in Indonesia in my undergraduate thesis, using **Bi-LSTM** Algorithm for Classification and **SMOTE** for Oversampling.
 
-Dan sekarang, saya pun menjadi bagian dari **Bangkit Academy 2022 by Google, GoTo, Traveloka pada learning path Cloud Computing**.
-
-Jika kalian semua tertarik untuk berkenalan atau membuat project bersama, kalian bisa click akun [LinkedIn](https://www.linkedin.com/in/caraka-muhamad-rahman-0504741b9/) ini. 
+If you are interested in getting to know each other or creating a project together, you can click on my [LinkedIn](https://www.linkedin.com/in/caraka-muhamad-rahman-0504741b9/) account. 
 
 <p align="left">
 <a href="https://github.com/CarakaMuhamadRahman">
